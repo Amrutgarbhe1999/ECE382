@@ -30,7 +30,7 @@ A stack is a Last In First Out (LIFO) queue.  Push and Pop are our two operation
 
 As you push more items onto the stack, the more space in memory it occupies - it grows.  As you pop items off of the stack, it shrinks.  The core purpose of stacks is to allow for the temporary storage of values at runtime for later retrieval.
 
-In the MSP430, the stack grows upward - from higher locations in memory to lower locations in memory.
+In the MSP430, the stack grows upward - from higher locations in memory to lower locations in memory.it is basically most used for the Data structure and algorithm project.Stack are define in many ways in other languages. basically stack is use and most use in c and c++ better.
 
 **Draw memory map.**
 
